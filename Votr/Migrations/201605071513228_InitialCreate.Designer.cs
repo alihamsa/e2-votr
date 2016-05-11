@@ -13,7 +13,7 @@ namespace Votr.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "201604231635195_InitialCreate"; }
+            get { return "201605071513228_InitialCreate"; }
         }
         
         string IMigrationMetadata.Source
